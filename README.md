@@ -5,3 +5,5 @@
 297 - improving code for  "my contacts project"
 
 299 - emojipedia, practicing react components and javascript
+
+310 - eventHandlers, useStates (mouseover, change states on events)
