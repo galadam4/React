@@ -7,3 +7,5 @@
 299 - emojipedia, practicing react components and javascript
 
 310 - eventHandlers, useStates (mouseover, change states on events)
+
+311->315 - react forms, more useState exercises and input change dynamically
