@@ -8,7 +8,7 @@
 
 310 - eventHandlers, useStates (mouseover, change states on events)
 
-311->315 - react forms, more useState exercises and input change dynamically
+311->316 - react forms, more useState exercises and input change dynamically
 
 keeper app - using react, I've built a project that let you create and delete notes
              this folder contains the progression of the keeper app project, and the final product
